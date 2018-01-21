@@ -1,0 +1,40 @@
+{
+  "name": "regl-webvr-demo",
+  "version": "0.0.1",
+  "description": "Demo that shows how to use regl and WebVR together.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "angle-normals": "^1.0.0",
+    "budo": "^10.0.4",
+    "bunny": "^1.0.1",
+    "canvas-fit": "^1.5.0",
+    "gl-mat4": "^1.1.4",
+    "regl": "^1.3.1",
+    "webvr-polyfill": "^0.10.2"
+  },
+  "scripts": {
+    "start": "budo --live --open index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erkaman/regl-webvr-demo.git"
+  },
+  "keywords": [
+    "webvr",
+    "regl",
+    "webgl",
+    "demo",
+    "boxes",
+    "box",
+    "vr",
+    "virtual",
+    "reality"
+  ],
+  "author": "Eric Arnebäck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Erkaman/regl-webvr-demo/issues"
+  },
+  "homepage": "https://github.com/Erkaman/regl-webvr-demo#readme"
+}
