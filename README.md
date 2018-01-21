@@ -11,7 +11,8 @@ pressing the button, VR can be entered.
 
 Source code is in `index.js`
 
-![](gif.gif)
+![Animated](img/gif.gif)
+
 
 [Demo here](https://erkaman.github.io/webgl-rsm/webgl-rsm.html)
 
