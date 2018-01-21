@@ -15,9 +15,6 @@ Source code is in `index.js`
 
 ![Animated](img/gif.gif)
 
-
-[Demo here](https://erkaman.github.io/webgl-rsm/webgl-rsm.html)
-
 # Build and Run
 
 First install all dependencies by doing
