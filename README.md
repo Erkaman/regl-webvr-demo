@@ -1,5 +1,7 @@
 # Demo of using regl for WebVR.
 
+[Demo here](https://erkaman.github.io/regl-webvr-demo/build/demo.html)
+
 Demo that demonstrates how to use
 [regl](https://github.com/mikolalysenko/regl) with WebVR. Note that I
 have only tested this in Google Daydream, with a Google Pixel, so it
